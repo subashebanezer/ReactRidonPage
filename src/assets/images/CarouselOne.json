@@ -3,7 +3,7 @@
         "id" : 1,
         "amount" : "From $110",
         "brand" : "BMW Grand Sedan",
-        "img" : "../../assets/images/img-2.jpg",
+        "img" : "../../../public/img-2.jpg",
         "capacity" : "4 passengers",
         "bags" : "2 bags"
     },
@@ -11,7 +11,7 @@
         "id" : 2,
         "amount" : "From $110",
         "brand" : "BMW Grand Sedan",
-        "img" : "../../assets/images/img-3.jpg",
+        "img" : "../../../public/img-3.jpg",
         "capacity" : "4 passengers",
         "bags" : "2 bags"
     },
@@ -19,7 +19,7 @@
         "id" : 3,
         "amount" : "From $110",
         "brand" : "BMW Grand Sedan",
-        "img" : "../../assets/images/img-4.jpg",
+        "img" : "../../../public/img-4.jpg",
         "capacity" : "4 passengers",
         "bags" : "2 bags"
     },
@@ -27,7 +27,7 @@
         "id" : 4,
         "amount" : "From $110",
         "brand" : "BMW Grand Sedan",
-        "img" : "../../assets/images/img-5.jpg",
+        "img" : "../../../public/img-5.jpg",
         "capacity" : "4 passengers",
         "bags" : "2 bags"
     },
