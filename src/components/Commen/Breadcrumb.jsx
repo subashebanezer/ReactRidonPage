@@ -14,7 +14,7 @@ function handleClick(event) {
 export default function Breadcrumb(props) {
   const breadcrumbs = [
   <Link underline="hover" key="1" color="inherit" href="/" onClick={handleClick}>
-  <NavLink to="/" className="text-decoration-none text-dark"> Home </NavLink>
+  <NavLink to="/ReactRidonPage" className="text-decoration-none text-dark"> Home </NavLink>
  </Link>,
     <Typography key="3" sx={{ color: 'text.primary' }}>
       {props.title}
