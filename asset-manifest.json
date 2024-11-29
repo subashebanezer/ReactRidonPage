@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactRidonPage/static/css/main.3cd8bffe.css",
-    "main.js": "/ReactRidonPage/static/js/main.24dfb8ff.js",
+    "main.js": "/ReactRidonPage/static/js/main.2ac090c2.js",
     "static/media/video.mp4": "/ReactRidonPage/static/media/video.d3d4f8bef6d494bfacb2.mp4",
     "static/media/img-1.jpg": "/ReactRidonPage/static/media/img-1.fb6d6231464b887af730.jpg",
     "static/media/DMSans-Regular.ttf": "/ReactRidonPage/static/media/DMSans-Regular.9a12085be16f531ffcd7.ttf",
@@ -14,10 +14,10 @@
     "static/media/img-10.jpg": "/ReactRidonPage/static/media/img-10.5dade253f02f27324c50.jpg",
     "index.html": "/ReactRidonPage/index.html",
     "main.3cd8bffe.css.map": "/ReactRidonPage/static/css/main.3cd8bffe.css.map",
-    "main.24dfb8ff.js.map": "/ReactRidonPage/static/js/main.24dfb8ff.js.map"
+    "main.2ac090c2.js.map": "/ReactRidonPage/static/js/main.2ac090c2.js.map"
   },
   "entrypoints": [
     "static/css/main.3cd8bffe.css",
-    "static/js/main.24dfb8ff.js"
+    "static/js/main.2ac090c2.js"
   ]
 }
