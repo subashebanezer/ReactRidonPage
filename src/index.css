@@ -1,0 +1,304 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: Reg;
+  src: url(./assets/fonts/DMSans-Medium.ttf);
+}
+
+@font-face {
+  font-family: Pepi;
+  src: url(./assets/fonts/DMSans-Regular.ttf);
+}
+
+.font-family-Reg{
+  font-family: Reg;
+}
+
+.font-family-Pepi{
+  font-family: Pepi;
+}
+
+body{
+
+  font-family: Pepi;
+  overflow-x: hidden;
+  
+}
+
+.banner {
+  background-image: url("./assets/Home/img-1.jpg") !important;
+  height: 95.3vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed; 
+}
+
+.divider{
+  background-color: #CC4452;
+  height: 3.05px;
+  width: 7.2%;
+}
+
+.divider-1{
+    background-color: #CC4452;
+    height: 2.4px;
+    width: 6.8%;
+}
+
+.borders{
+    border: 3.7px solid #CC4452;
+    width: 75px;
+    padding: 2.5rem 5px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (min-width: 575px){
+  .borders{
+     width: 50%;
+      height: 44%;
+      padding-bottom: 10px;
+  }
+}
+
+@media only screen and (min-width: 575px){
+  .borders{
+     width: 50%;
+      height: 44%;
+      padding-bottom: 10px;
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+  }
+
+  .margin{
+    margin-bottom: 1.5rem;
+    padding: 0 2rem !important;
+  }
+}
+
+.pad{
+  font-size: 1.05rem;
+  color: #5C6167;
+}
+
+
+input::placeholder{
+  font-size: 1rem;
+}
+
+.cards-lists li{
+  list-style: none;   
+}
+
+.cards-lists li::before{
+  content: "\2714";
+  color:  #CC4452;
+  margin-right: 4px;
+  font-weight: bold;
+  margin-left: -2em;
+}
+
+button.owl-dot{
+  margin-top: 3%;
+  border-radius: 100% !important; 
+  border: 4px solid red !important;
+  margin-bottom: 4%;
+  margin-left: 3px;
+}
+
+button.owl-dot.active{
+  color: red !important;
+}
+
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
+  background: red !important;
+  padding: 5px !important;
+}
+
+.owl-theme .owl-dots .owl-dot span{
+  margin: 0 !important;
+
+  padding: 5px !important;
+}
+
+.owl-theme .owl-dots .owl-dot span{
+  background: white !important;
+}
+
+.owl-stage-outer.owl-item{
+  margin-right: 0 !important;
+}
+
+.owl-1 .owl-nav .owl-prev{
+  border: 2px solid black !important;
+  border-radius: 40px !important;
+}
+
+.owl-1 .owl-nav .owl-next{
+  border: 2px solid black !important;
+  border-radius: 40px !important;
+}
+
+.owl-1 .owl-nav .owl-prev span{
+  padding: 0.2rem 1.7rem !important;
+  padding-bottom: 0.5rem !important;
+  font-size: 2.3rem;
+  display: flex ;
+  align-items: center;
+  justify-content: center;
+}
+
+.owl-1 .owl-nav .owl-next span{
+  padding: 0.2rem 1.7rem !important;
+  padding-bottom: 0.5rem !important;
+  font-size: 2.3rem;
+  display: flex ;
+  align-items: center;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 2440px){
+  .owl-1 .owl-nav{
+      position: absolute;
+      top: -13rem;
+      right: 10px;
+  }
+}
+
+@media only screen and (max-width: 1024px){
+  .owl-1 .owl-nav{
+      position: absolute;
+      top: -14rem;
+      right: 15px;
+  }
+}
+
+@media only screen and (max-width: 790px){
+  .owl-1 .owl-nav{
+      position: absolute;
+      top: -16rem;
+      right: 15px;    
+  }
+  
+}
+
+@media only screen and (max-width: 575px){
+  .owl-1 .owl-nav{
+      position: absolute;
+      top: -20rem;
+      right: -45px;   
+  }
+}
+
+.section-5{
+  background-image: url('./assets/Home/img-8.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  color: #fff;    
+}
+
+
+.back-1{
+  background-image: url("./assets/other/img-1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* background-attachment: fixed; */
+  color: #fff;    
+  height: 45vh;
+}
+
+.padding{
+  padding-left: 40px !important;
+  padding-top: 45px !important;
+  padding-bottom: 42px !important;
+  font-size: 1.23rem !important;
+}
+
+.padding-1{
+  padding-top: 45px !important;
+  padding-bottom: 42px !important;
+  font-size: 1.23rem !important;
+}
+
+.owl-2 .owl-nav .owl-prev{
+  border: 2px solid black !important;
+  border-radius: 40px !important;
+}
+
+.owl-2 .owl-nav .owl-next{
+  border: 2px solid black !important;
+  border-radius: 40px !important;
+}
+
+.owl-2 .owl-nav .owl-prev span{
+  padding: 0.2rem 1.7rem !important;
+  padding-bottom: 0.5rem !important;
+  font-size: 2.3rem;
+  display: flex ;
+  align-items: center;
+  justify-content: center;
+}
+
+.owl-2 .owl-nav .owl-next span{
+  padding: 0.2rem 1.7rem !important;
+  padding-bottom: 0.5rem !important;
+  font-size: 2.3rem;
+  display: flex ;
+  align-items: center;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 2440px){
+  .owl-2 .owl-nav{
+      position: absolute;
+      top: -8.5rem;
+      right: 10px;
+  }
+}
+
+@media only screen and (max-width: 1024px){
+  .owl-2 .owl-nav{
+      position: absolute;
+      top: -8.5rem;
+      right: 15px;
+  }
+}
+
+@media only screen and (max-width: 790px){
+  .owl-2 .owl-nav{
+      position: absolute;
+      top: -8.5rem;
+      right: 15px;    
+  }
+  
+}
+
+@media only screen and (max-width: 575px){
+  .owl-2 .owl-nav{
+      position: absolute;
+      top: -8.5rem;
+      right: -45px;   
+  }
+
+  .owl-2 .owl-nav .owl-prev span{
+    padding: 0.1rem 1.4rem !important;
+    padding-bottom: 0.1rem !important;
+    font-size: 2.3rem;
+  }
+  
+  .owl-2 .owl-nav .owl-next span{
+    padding: 0.1rem 1.4rem !important;
+    padding-bottom: 0.1rem !important;
+    font-size: 2.3rem;  
+  }
+}
+

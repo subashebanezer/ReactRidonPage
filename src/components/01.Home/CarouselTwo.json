@@ -1,0 +1,74 @@
+[
+    {
+        "id" : "1",
+        "img" : "img-9.jpg",
+        "title" : "For This Week Only 10% Discounts On Fridays",
+        "date" : "July 1, 2018 ",
+        "comments" : "2 Comments",
+        "description" : "Sed suscipit pretium venenatis. Praesent ultrices convallis augue, in tincidunt nibh hendrerit sit amet."
+     },
+    {
+       "id" : "2",
+       "img" : "img-10.jpg",
+       "title" : "We're Expanding To Los Angeles Next Week!",
+       "date" : "July 1, 2018 ",
+       "comments" : "No Comments",
+       "description" : "Nam ut mi quis risus vulputate rutrum ac in augue. Proin at metus metus. Aliquam at magna nec massa."
+    },
+    {
+        "id" : "3",
+        "img" : "img-11.jpg",
+        "title" : "Please Give A Warm Welcome To Our New",
+        "date" : "July 1, 2018 ",
+        "comments" : "3 Comments",
+        "description" : "Proin eu ipsum mi aliquam sapien justo, vestibulum eu metus at, lacinia malesuada ex sed quam enim."
+     },
+     {
+        "id" : "4",
+        "img" : "img-9.jpg",
+        "title" : "For This Week Only 10% Discounts On Fridays",
+        "date" : "July 1, 2018 ",
+        "comments" : "2 Comments",
+        "description" : "Sed suscipit pretium venenatis. Praesent ultrices convallis augue, in tincidunt nibh hendrerit sit amet."
+     },
+    {
+       "id" : "5",
+       "img" : "img-10.jpg",
+       "title" : "We're Expanding To Los Angeles Next Week!",
+       "date" : "July 1, 2018 ",
+       "comments" : "No Comments",
+       "description" : "Nam ut mi quis risus vulputate rutrum ac in augue. Proin at metus metus. Aliquam at magna nec massa."
+    },
+    {
+        "id" : "6",
+        "img" : "img-11.jpg",
+        "title" : "Please Give A Warm Welcome To Our New",
+        "date" : "July 1, 2018 ",
+        "comments" : "3 Comments",
+        "description" : "Proin eu ipsum mi aliquam sapien justo, vestibulum eu metus at, lacinia malesuada ex sed quam enim."
+     },
+     {
+        "id" : "7",
+        "img" : "img-9.jpg",
+        "title" : "For This Week Only 10% Discounts On Fridays",
+        "date" : "July 1, 2018 ",
+        "comments" : "2 Comments",
+        "description" : "Sed suscipit pretium venenatis. Praesent ultrices convallis augue, in tincidunt nibh hendrerit sit amet."
+     },
+    {
+       "id" : "8",
+       "img" : "img-10.jpg",
+       "title" : "We're Expanding To Los Angeles Next Week!",
+       "date" : "July 1, 2018 ",
+       "comments" : "No Comments",
+       "description" : "Nam ut mi quis risus vulputate rutrum ac in augue. Proin at metus metus. Aliquam at magna nec massa."
+    },
+    {
+        "id" : "9",
+        "img" : "img-11.jpg",
+        "title" : "Please Give A Warm Welcome To Our New",
+        "date" : "July 1, 2018 ",
+        "comments" : "3 Comments",
+        "description" : "Proin eu ipsum mi aliquam sapien justo, vestibulum eu metus at, lacinia malesuada ex sed quam enim."
+     }
+]

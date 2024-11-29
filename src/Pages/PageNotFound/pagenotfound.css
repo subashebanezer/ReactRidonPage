@@ -1,0 +1,23 @@
+.container2{
+    position: relative ;
+    text-align: center ;
+    animation: myfirst 5s linear 2s infinite alternate;
+  }
+  
+  .errors{
+    position: absolute ;
+    top: 25% ;
+    left: 50% ;
+    transform: translate(-50%, -50%) ;
+    /* padding-top: 1.5rem; */
+    font-size: 5rem !important;
+    color: #ED8526 !important;
+  }
+
+  @keyframes myfirst {
+    0%   {color:red; left:0px; top:0px;}
+    25%  {color:yellow; left:200px; top:0px;}
+    50%  {color:blue; left:200px; top:200px;}
+    75%  {color:green; left:0px; top:200px;}
+    100% {color:red; left:0px; top:0px;}
+  }
