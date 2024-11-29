@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactRidonPage/static/css/main.3cd8bffe.css",
+    "main.js": "/ReactRidonPage/static/js/main.24dfb8ff.js",
+    "static/media/video.mp4": "/ReactRidonPage/static/media/video.d3d4f8bef6d494bfacb2.mp4",
+    "static/media/img-1.jpg": "/ReactRidonPage/static/media/img-1.fb6d6231464b887af730.jpg",
+    "static/media/DMSans-Regular.ttf": "/ReactRidonPage/static/media/DMSans-Regular.9a12085be16f531ffcd7.ttf",
+    "static/media/DMSans-Medium.ttf": "/ReactRidonPage/static/media/DMSans-Medium.489ee738b49bd5d06294.ttf",
+    "static/media/img-3.jpg": "/ReactRidonPage/static/media/img-3.2cecc2bcf43a1a3aeef0.jpg",
+    "static/media/img-5.jpg": "/ReactRidonPage/static/media/img-5.64707aabc16038893d7a.jpg",
+    "static/media/img-2.jpg": "/ReactRidonPage/static/media/img-2.994c164d87547e58ff8b.jpg",
+    "static/media/img-8.jpg": "/ReactRidonPage/static/media/img-8.32cb6f9f6053626b5fce.jpg",
+    "static/media/img-7.jpg": "/ReactRidonPage/static/media/img-7.f522da311f0a35edf8a1.jpg",
+    "static/media/img-10.jpg": "/ReactRidonPage/static/media/img-10.5dade253f02f27324c50.jpg",
+    "index.html": "/ReactRidonPage/index.html",
+    "main.3cd8bffe.css.map": "/ReactRidonPage/static/css/main.3cd8bffe.css.map",
+    "main.24dfb8ff.js.map": "/ReactRidonPage/static/js/main.24dfb8ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cd8bffe.css",
+    "static/js/main.24dfb8ff.js"
+  ]
+}
